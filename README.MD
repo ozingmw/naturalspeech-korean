@@ -46,8 +46,7 @@ rm -rf ./utils/filelists<br/>
 cp -r ./filelists ./utils/filelists/
 
 11. torch 오류로 인해 functional.py 복사<br/>
-stft 오류로 인해 해결방법<br/>
-https://github.com/coqui-ai/TTS/issues/2449<br/>
+(stft 오류로 인해 해결방법: https://github.com/coqui-ai/TTS/issues/2449)<br/>
 !cp ./copy_error/functional.py /usr/local/lib/python3.9/dist-packages/torch/functional.py
 
 12. warmup<br/>
