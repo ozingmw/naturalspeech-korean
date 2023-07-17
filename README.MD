@@ -1,4 +1,4 @@
-TEXT TO SPEECH
+NaturalSpeech
 https://github.com/heatz123/naturalspeech 한국어 수정본
 
 파일 변경해서 저장하면
